@@ -2,6 +2,7 @@ import sys
 import pandas as pd
 import argparse
 from utils import set_log_level, get_logger
+from datetime import datetime,timedelta
 
 # Init logger
 logger = get_logger(sys.argv[0])
@@ -21,7 +22,7 @@ def main():
         logger.debug(f"Command line arguments: {args}")
 
     # Read excel file
-    df = pd.read_excel(args.file)
+    df = pd.read_excel(args.file).replace(r"[-]",None,regex=True)
 
     logger.info("File read successful")
 
@@ -107,11 +108,46 @@ def main():
             var_name="YearMonth",
             value_name="Value",
         )
+    elif args.country == 'JP2':
+        col_date = []
+        other_col = []
+        for i in df.columns :
+            if '.' in i :
+                col_date.append(i)
+            else :
+                other_col.append(i)
+        
+        logger.info('Start date treatment')
+
+        start_year = args.file.split('/')[-1].split('_')[4][:4]
+        dt_col_count = len(col_date)
+        col_date_ = [dt.replace('-', '').replace('.','-') for dt in col_date]
+        first_date = start_year+'-'+col_date_[0]
+        first_date = datetime.strptime(first_date,"%Y-%m-%d")
+        date_list=[first_date.strftime("%Y-%m-%d")]
+        delta = timedelta(days=7)
+        for i in range(dt_col_count-1):
+            date = first_date+delta
+            first_date = date
+            date_list.append(date.strftime("%Y-%m-%d"))
+        
+        df.columns = other_col + date_list
+        
+        logger.info("Starting melting")
+
+        new_df = pd.melt(
+            df,
+            id_vars=other_col,
+            value_vars=date_list,
+            var_name="Date",
+            value_name="Value",
+        )
+
 
     logger.info("Start writing in csv")
     # Write the unpivoted dataframe in csv in the same directory as the initial file
 
-    new_df.to_csv(args.file.split('.')[0] + "_pivoted.csv", index=False)
+    new_df.to_csv(args.file.split('.')[0] + "_pivoted.csv", index=False,sep='|')
 
 if __name__ == "__main__":
     set_log_level(logger, "info")
