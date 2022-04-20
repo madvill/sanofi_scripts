@@ -1,32 +1,19 @@
 import sys
 import pandas as pd
-import argparse
-from utils import set_log_level, get_logger
-from datetime import datetime,timedelta
+from ..utils import get_logger, set_log_level
+from datetime import datetime, timedelta
 
 # Init logger
-logger = get_logger(sys.argv[0])
+logger = get_logger('unpivot')
+set_log_level(logger, "info")
 
-
-def main():
-    # Arguments of the function
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--file", help="Input file path", required=True)
-    parser.add_argument("--country", help="Origin country of the file", required=True)
-    parser.add_argument("--verbose", help="Debug mode", required=False, default=False)
-
-    args = parser.parse_args()
-
-    if args.verbose:
-        set_log_level(logger, "debug")
-        logger.debug(f"Command line arguments: {args}")
-
+def unpivot_file(file, country):
     # Read excel file
-    df = pd.read_excel(args.file).replace(r"[-]",None,regex=True)
+    df = pd.read_excel(file)
 
     logger.info("File read successful")
 
-    if args.country == "MX":
+    if country == "MX":
 
         # Make groups over column names (Un, Lc and others)
         col_un = []
@@ -69,7 +56,7 @@ def main():
         logger.info("Start concat")
         # Concatenate the temporary dataframes to get the unpivot on only one dataframe
         new_df = pd.concat([tmp_df1, tmp_df2["Value"]], axis=1, join="inner")
-    elif args.country == "JP":
+    elif country == "JP":
         col_date = []
         other_col = []
         for i in df.columns:
@@ -108,31 +95,31 @@ def main():
             var_name="YearMonth",
             value_name="Value",
         )
-    elif args.country == 'JP2':
+    elif country == "JP2":
         col_date = []
         other_col = []
-        for i in df.columns :
-            if '.' in i :
+        for i in df.columns:
+            if "." in i:
                 col_date.append(i)
-            else :
+            else:
                 other_col.append(i)
-        
-        logger.info('Start date treatment')
 
-        start_year = args.file.split('/')[-1].split('_')[4][:4]
+        logger.info("Start date treatment")
+
+        start_year = file.split("/")[-1].split("_")[4][:4]
         dt_col_count = len(col_date)
-        col_date_ = [dt.replace('-', '').replace('.','-') for dt in col_date]
-        first_date = start_year+'-'+col_date_[0]
-        first_date = datetime.strptime(first_date,"%Y-%m-%d")
-        date_list=[first_date.strftime("%Y-%m-%d")]
+        col_date_ = [dt.replace("-", "").replace(".", "-") for dt in col_date]
+        first_date = start_year + "-" + col_date_[0]
+        first_date = datetime.strptime(first_date, "%Y-%m-%d")
+        date_list = [first_date.strftime("%Y-%m-%d")]
         delta = timedelta(days=7)
-        for i in range(dt_col_count-1):
-            date = first_date+delta
+        for i in range(dt_col_count - 1):
+            date = first_date + delta
             first_date = date
             date_list.append(date.strftime("%Y-%m-%d"))
-        
+
         df.columns = other_col + date_list
-        
+
         logger.info("Starting melting")
 
         new_df = pd.melt(
@@ -143,12 +130,6 @@ def main():
             value_name="Value",
         )
 
-
     logger.info("Start writing in csv")
     # Write the unpivoted dataframe in csv in the same directory as the initial file
-
-    new_df.to_csv(args.file.split('.')[0] + "_pivoted.csv", index=False,sep='|')
-
-if __name__ == "__main__":
-    set_log_level(logger, "info")
-    main()
+    new_df.to_csv(file.split(".")[0] + "_pivoted.csv", index=False, sep="|")
