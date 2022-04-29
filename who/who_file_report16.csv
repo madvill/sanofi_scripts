@@ -1,73 +1,226 @@
-Geographic Information Hemisphere|Geographic Information Continent|Geographic Information WHO region|Geographic Information FLU region|Geographic Information Country, area or territory|Geographic Information  Year|Geographic Information Week|Geographic Information Start date|Geographic Information End date|Geographic Information Age Group|Influenza like illness information Cases|Influenza like illness information Outpatients|Influenza like illness information Population covered|Influenza like illness information Outpatient Rate|Influenza like illness information Pop Rate|Influenza like illness information Sampled cases|Influenza like illness information Influenza positives|Influenza like illness information Influenza negatives|Influenza like illness information COVID-19 tested|Influenza like illness information COVID-19 positives|Influenza like illness information COVID-19 negatives|Influenza like illness information COVID-19 ratio|Severe acute respiratory infection information Cases|Severe acute respiratory infection information Inpatients|Severe acute respiratory infection information Population covered|Severe acute respiratory infection information Inpatient Rate|Severe acute respiratory infection information Pop Rate|Severe acute respiratory infection information Sampled cases|Severe acute respiratory infection information Influenza positives|Severe acute respiratory infection information Influenza negatives|Severe acute respiratory infection information COVID-19 tested|Severe acute respiratory infection information COVID-19 positives|Severe acute respiratory infection information COVID-19 negatives|Severe acute respiratory infection information COVID-19 ratio|Acute respiratory infection information Cases|Acute respiratory infection information Outpatients|Acute respiratory infection information Population covered|Acute respiratory infection information Outpatient Rate|Acute respiratory infection information Pop Rate|Pneumonia information Cases|Pneumonia information Inpatients|Pneumonia information Population covered|Pneumonia information Inpatient Rate|Pneumonia information Pop Rate|Qualitative indicators Geospread|Qualitative indicators Intensity
-Northern hemishere|Americas|AMR|North America|Canada|2021|52|2021-12-27|2022-01-02|All|21|1420||14.79||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|51|2021-12-20|2021-12-26|All|40|2317||17.26||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|50|2021-12-13|2021-12-19|All|38|3460||10.98||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|49|2021-12-06|2021-12-12|All|36|3984||9.04||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|48|2021-11-29|2021-12-05|All|38|3349||11.35||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|47|2021-11-22|2021-11-28|All|29|3889||7.46||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|46|2021-11-15|2021-11-21|All|36|3986||9.03||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|45|2021-11-08|2021-11-14|All|35|3516||9.95||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|44|2021-11-01|2021-11-07|All|26|4375||5.94||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|43|2021-10-25|2021-10-31|All|39|4520||8.63||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|42|2021-10-18|2021-10-24|All|52|4189||12.41||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|41|2021-10-11|2021-10-17|All|30|2852||10.52||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|40|2021-10-04|2021-10-10|All|38|7226||5.26||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|39|2021-09-27|2021-10-03|All|35|3539||9.89||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|38|2021-09-20|2021-09-26|All|33|3825||8.63||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|37|2021-09-13|2021-09-19|All|25|4044||6.18||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|36|2021-09-06|2021-09-12|All|39|3213||12.14||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|35|2021-08-30|2021-09-05|All|17|3047||5.58||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|34|2021-08-23|2021-08-29|All|16|2942||5.44||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|33|2021-08-16|2021-08-22|All|19|4198||4.53||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|32|2021-08-09|2021-08-15|All|13|3787||3.43||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|31|2021-08-02|2021-08-08|All|7|2813||2.49||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|30|2021-07-26|2021-08-01|All|9|4353||2.07||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|29|2021-07-19|2021-07-25|All|9|4389||2.05||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|28|2021-07-12|2021-07-18|All|13|4007||3.24||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|27|2021-07-05|2021-07-11|All|4|4320||0.93||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|26|2021-06-28|2021-07-04|All|10|3559||2.81||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|25|2021-06-21|2021-06-27|All|12|4972||2.41||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|24|2021-06-14|2021-06-20|All|13|5585||2.33||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|23|2021-06-07|2021-06-13|All|9|5522||1.63||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|22|2021-05-31|2021-06-06|All|13|5495||2.37||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|21|2021-05-24|2021-05-30|All|14|4907||2.85||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|20|2021-05-17|2021-05-23|All|15|5916||2.54||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|19|2021-05-10|2021-05-16|All|27|5096||5.30||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|18|2021-05-03|2021-05-09|All|21|6030||3.48||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|17|2021-04-26|2021-05-02|All|30|5942||5.05||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|16|2021-04-19|2021-04-25|All|25|5972||4.19||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|15|2021-04-12|2021-04-18|All|17|6220||2.73||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|14|2021-04-05|2021-04-11|All|18|5832||3.09||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|13|2021-03-29|2021-04-04|All|8|3985||2.01||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|12|2021-03-22|2021-03-28|All|22|5750||3.83||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|11|2021-03-15|2021-03-21|All|19|6032||3.15||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|10|2021-03-08|2021-03-14|All|10|5226||1.91||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|9|2021-03-01|2021-03-07|All|11|5503||2.00||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|8|2021-02-22|2021-02-28|All|12|6697||1.79||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|7|2021-02-15|2021-02-21|All|12|5101||2.35||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|6|2021-02-08|2021-02-14|All|17|6446||2.64||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|5|2021-02-01|2021-02-07|All|27|5934||4.55||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|4|2021-01-25|2021-01-31|All|10|5327||1.88||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|3|2021-01-18|2021-01-24|All|19|6362||2.99||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|2|2021-01-11|2021-01-17|All|14|5811||2.41||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2021|1|2021-01-04|2021-01-10|All|24|5515||4.35||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2020|53|2020-12-28|2021-01-03|All|18|2646||6.80||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2020|52|2020-12-21|2020-12-27|All|16|3268||4.90||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2020|51|2020-12-14|2020-12-20|All|30|5849||5.13||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2020|50|2020-12-07|2020-12-13|All|21|5611||3.74||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2020|49|2020-11-30|2020-12-06|All|29|6346||4.57||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2020|48|2020-11-23|2020-11-29|All|26|5682||4.58||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2020|47|2020-11-16|2020-11-22|All|18|5988||3.01||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2020|46|2020-11-09|2020-11-15|All|35|4381||7.99||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2020|45|2020-11-02|2020-11-08|All|28|6482||4.32||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2020|44|2020-10-26|2020-11-01|All|17|6212||2.74||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2020|43|2020-10-19|2020-10-25|All|22|6676||3.30||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2020|42|2020-10-12|2020-10-18|All|27|5362||5.04||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2020|41|2020-10-05|2020-10-11|All|22|5907||3.72||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2020|40|2020-09-28|2020-10-04|All|14|6350||2.20||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2020|39|2020-09-21|2020-09-27|All|23|6190||3.72||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2020|38|2020-09-14|2020-09-20|All|21|6426||3.27||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2020|37|2020-09-07|2020-09-13|All|21|5425||3.87||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2020|36|2020-08-31|2020-09-06|All|13|5608||2.32||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2020|35|2020-08-24|2020-08-30|All|7|4883||1.43||||||||||||||||||||||||||||||||
-Northern hemishere|Americas|AMR|North America|Canada|2020|1|2019-12-30|2020-01-05|All|24|4417||5.43||||||||||||||||||||||||||||||||
+Geographic Information Hemisphere|Geographic Information Continent|Geographic Information WHO region|Geographic Information FLU region|Geographic Information Country, area or territory|Geographic Information  Year|Geographic Information Week|Geographic Information Start date|Geographic Information End date|Geographic Information Age Group|Influenza like illness information Cases|Influenza like illness information Outpatients|Influenza like illness information Population covered|Influenza like illness information Outpatient Rate|Influenza like illness information Pop Rate|Influenza like illness information Sampled cases|Influenza like illness information Influenza positives|Influenza like illness information Influenza negatives|Influenza like illness information COVID-19 tested|Influenza like illness information COVID-19 positives|Influenza like illness information COVID-19 negatives|Influenza like illness information COVID-19 ratio|Severe acute respiratory infection information Cases|Severe acute respiratory infection information Inpatients|Severe acute respiratory infection information Population covered|Severe acute respiratory infection information Inpatient Rate|Severe acute respiratory infection information Pop Rate|Severe acute respiratory infection information Sampled cases|Severe acute respiratory infection information Influenza positives|Severe acute respiratory infection information Influenza negatives|Severe acute respiratory infection information COVID-19 tested|Severe acute respiratory infection information COVID-19 positives|Severe acute respiratory infection information COVID-19 negatives|Severe acute respiratory infection information COVID-19 ratio|Acute respiratory infection information Cases|Acute respiratory infection information Outpatients|Acute respiratory infection information Population covered|Acute respiratory infection information Outpatient Rate|Acute respiratory infection information Pop Rate|Pneumonia information Cases|Pneumonia information Inpatients|Pneumonia information Population covered|Pneumonia information Inpatient Rate|Pneumonia information Pop Rate|Qualitative indicators Geospread|Qualitative indicators Intensity|Qualitative indicators Trend|Qualitative indicators Impact
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2022|16|2022-04-18|2022-04-24|All|2348|||||2212|2|0||155||0.76|388|||||382|0|1||10||1.50||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2022|15|2022-04-11|2022-04-17|All|6712|||||6231|10|2||400||0.71|1289|||||1281|7|0||83||1.08||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2022|14|2022-04-04|2022-04-10|All|9681|||||8875|16|3||675||0.84|1595|||||1583|3|7||109||1.27||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2022|13|2022-03-28|2022-04-03|All|12085|||||11094|20|2||917||0.86|1797|||||1780|13|12||184||1.04||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2022|12|2022-03-21|2022-03-27|All|12671|||||11565|19|4||1049||0.79|1864|||||1852|9|8||181||1.35||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2022|11|2022-03-14|2022-03-20|All|12244|||||11342|15|5||1248||0.69|1975|||||1957|6|11||230||0.90||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2022|10|2022-03-07|2022-03-13|All|13817|||||12591|27|8||1873||0.77|2135|||||2116|6|4||340||1.04||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2022|9|2022-02-28|2022-03-06|All|16547|||||14700|22|3||2964||0.72|2548|||||2528|7|6||514||1.28||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2022|8|2022-02-21|2022-02-27|All|17446|||||15771|19|6||4046||0.78|2566|||||2542|6|14||769||1.28||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2022|7|2022-02-14|2022-02-20|All|23474|||||21366|25|9||7146||0.69|3475|||||3439|8|8||1333||1.21||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2022|6|2022-02-07|2022-02-13|All|28238|||||25293|33|9||11236||0.73|4343|||||4285|9|11||2260||1.21||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2022|5|2022-01-31|2022-02-06|All|43587|||||38595|33|1||18968||0.74|6331|||||6218|8|11||3879||1.24||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2022|4|2022-01-24|2022-01-30|All|65434|||||57425|38|9||33443||0.73|8079|||||7926|25|8||5342||1.10||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2022|3|2022-01-17|2022-01-23|All|97050|||||88209|86|6||53501||0.73|9695|||||9523|42|18||6631||1.08||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2022|2|2022-01-10|2022-01-16|All|121465|||||115564|199|4||67775||0.75|9662|||||9408|60|18||6044||0.98||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2022|1|2022-01-03|2022-01-09|All|103045|||||99852|405|12||49232||0.72|7261|||||7177|82|14||3928||0.95||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|52|2021-12-27|2022-01-02|All|34750|||||33705|192|3||13121||0.74|3373|||||3322|29|1||1014||0.87||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|51|2021-12-20|2021-12-26|All|21589|||||20901|209|3||5166||0.82|2991|||||2948|38|1||864||1.23||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|50|2021-12-13|2021-12-19|All|17084|||||16462|182|0||2672||0.87|2964|||||2924|44|4||834||1.18||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|49|2021-12-06|2021-12-12|All|18820|||||18109|138|1||2580||0.79|3029|||||2997|27|4||883||1.05||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|48|2021-11-29|2021-12-05|All|20696|||||19659|117|5||2992||0.83|3249|||||3219|37|15||1001||1.22||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|47|2021-11-22|2021-11-28|All|18935|||||17960|65|4||2802||0.82|3012|||||2990|23|25||929||1.16||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|46|2021-11-15|2021-11-21|All|21334|||||20438|43|11||3183||0.85|3300|||||3273|12|23||1084||1.22||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|45|2021-11-08|2021-11-14|All|19696|||||18965|11|12||2856||0.82|3220|||||3182|8|25||1044||1.24||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|44|2021-11-01|2021-11-07|All|21320|||||20561|6|15||3015||0.81|3386|||||3343|8|18||1108||1.29||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|43|2021-10-25|2021-10-31|All|20019|||||19194|7|8||3129||0.81|3093|||||3057|3|25||1083||1.26||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|42|2021-10-18|2021-10-24|All|24233|||||23247|8|11||3809||0.81|3450|||||3403|4|14||1210||1.24||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|41|2021-10-11|2021-10-17|All|24324|||||23133|3|8||4029||0.83|3873|||||3818|1|26||1505||1.23||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|40|2021-10-04|2021-10-10|All|25773|||||24342|3|9||4939||0.85|3934|||||3884|1|15||1679||1.21||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|39|2021-09-27|2021-10-03|All|27019|||||25412|0|5||6067||0.90|4561|||||4485|0|15||2217||1.21||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|38|2021-09-20|2021-09-26|All|31509|||||30059|1|5||8308||0.87|5004|||||4937|0|10||2527||1.19||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|37|2021-09-13|2021-09-19|All|29056|||||27482|3|2||9053||0.89|5569|||||5473|0|7||3200||1.15||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|36|2021-09-06|2021-09-12|All|34157|||||32588|1|6||10706||0.86|6477|||||6354|1|5||3836||1.18||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|35|2021-08-30|2021-09-05|All|36871|||||34892|2|11||13000||0.91|7177|||||7042|0|14||4527||1.18||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|34|2021-08-23|2021-08-29|All|42549|||||40568|5|7||14326||0.93|7571|||||7432|2|8||4782||1.20||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|33|2021-08-16|2021-08-22|All|49144|||||47194|3|9||17531||0.91|9269|||||9084|2|11||6016||1.16||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|32|2021-08-09|2021-08-15|All|55692|||||53160|0|5||20281||0.93|9450|||||9256|0|14||6087||1.21||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|31|2021-08-02|2021-08-08|All|55194|||||53049|1|16||20363||0.98|9483|||||9308|0|15||6227||1.18||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|30|2021-07-26|2021-08-01|All|56198|||||54353|2|16||19835||0.94|8853|||||8671|0|18||5612||1.21||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|29|2021-07-19|2021-07-25|All|52988|||||51286|0|16||17984||0.98|8395|||||8252|0|10||4965||1.24||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|28|2021-07-12|2021-07-18|All|43150|||||41669|0|11||13570||0.99|6680|||||6588|0|11||3570||1.30||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|27|2021-07-05|2021-07-11|All|34236|||||33121|0|17||10317||0.98|5555|||||5471|0|25||2885||1.34||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|26|2021-06-28|2021-07-04|All|27195|||||26129|1|15||6882||0.97|4346|||||4241|0|7||2034||1.25||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|25|2021-06-21|2021-06-27|All|23075|||||22289|0|12||5460||1.05|3586|||||3538|0|8||1453||1.35||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|24|2021-06-14|2021-06-20|All|20866|||||20218|0|14||4569||1.00|3272|||||3240|1|13||1193||1.38||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|23|2021-06-07|2021-06-13|All|18575|||||17917|0|13||3670||1.00|3292|||||3257|0|11||1124||1.22||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|22|2021-05-31|2021-06-06|All|18125|||||17357|0|7||3198||1.01|3125|||||3088|0|12||1033||1.16||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|21|2021-05-24|2021-05-30|All|16686|||||15915|0|9||2653||1.02|2826|||||2804|0|13||786||1.25||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|20|2021-05-17|2021-05-23|All|18877|||||17996|0|7||2422||0.94|3035|||||2994|0|10||823||1.32||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|19|2021-05-10|2021-05-16|All|18161|||||17430|0|9||2211||0.97|3213|||||3169|0|6||977||1.33||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|18|2021-05-03|2021-05-09|All|18135|||||17460|0|8||2148||0.96|3059|||||3013|0|6||976||1.19||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|17|2021-04-26|2021-05-02|All|18723|||||17968|0|12||2553||0.92|3793|||||3721|0|2||1138||1.28||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|16|2021-04-19|2021-04-25|All|19891|||||19106|0|3||2711||0.91|3990|||||3921|0|8||1324||1.13||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|15|2021-04-12|2021-04-18|All|20388|||||19653|0|8||2996||0.91|3987|||||3909|0|9||1490||1.31||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|14|2021-04-05|2021-04-11|All|23193|||||22477|0|1||3605||0.92|4536|||||4432|0|2||1771||1.18||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|13|2021-03-29|2021-04-04|All|18003|||||17276|1|6||3215||0.91|4458|||||4348|1|6||2010||1.29||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|12|2021-03-22|2021-03-28|All|21918|||||21203|0|8||3563||0.91|4278|||||4156|0|5||1759||1.19||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|11|2021-03-15|2021-03-21|All|23612|||||22735|1|4||4044||0.97|5092|||||4951|0|5||2358||1.26||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|10|2021-03-08|2021-03-14|All|23004|||||22110|0|5||4389||0.92|4729|||||4615|0|2||2297||1.31||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|9|2021-03-01|2021-03-07|All|26508|||||25426|0|3||5840||0.92|6149|||||5976|0|8||3112||1.34||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|8|2021-02-22|2021-02-28|All|25164|||||23971|0|1||5592||0.91|5313|||||5149|0|5||2882||1.30||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|7|2021-02-15|2021-02-21|All|27292|||||25943|0|1||6305||0.92|6321|||||6110|0|5||3389||1.23||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|6|2021-02-08|2021-02-14|All|28548|||||26719|0|0||6483||0.92|6581|||||6352|1|5||3717||1.40||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|5|2021-02-01|2021-02-07|All|32305|||||29890|0|1||8371||0.92|8202|||||7922|0|2||4870||1.30||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|4|2021-01-25|2021-01-31|All|37417|||||34485|0|1||10356||0.91|8789|||||8445|0|6||5453||1.41||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|3|2021-01-18|2021-01-24|All|47751|||||44301|0|4||15275||0.92|11030|||||10592|0|4||7350||1.44||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|2|2021-01-11|2021-01-17|All|49188|||||45820|1|5||17583||0.85|12299|||||11747|0|5||8338||1.33||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2021|1|2021-01-04|2021-01-10|All|48764|||||44587|0|6||18662||0.87|11582|||||11058|0|4||7859||1.32||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|53|2020-12-28|2021-01-03|All|41394|||||37985|0|7||16373||0.87|3271|12182||26.85||3163|0|3||2147||1.34||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|52|2020-12-21|2020-12-27|All|34997|||||31529|0|0||12700||0.88|2996|13035||22.98||2881|0|2||1795||1.55||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|51|2020-12-14|2020-12-20|All|38462|||||34912|0|1||13369||0.89|2963|15643||18.94||2864|0|4||1789||1.31||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|50|2020-12-07|2020-12-13|All|39446|||||35671|0|1||13991||0.89|2917|15773||18.49||2841|0|4||1808||1.41||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|49|2020-11-30|2020-12-06|All|39354|||||35367|0|1||13460||0.87|2559|15444||16.57||2493|0|7||1540||1.40||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|48|2020-11-23|2020-11-29|All|34650|||||31341|0|7||12192||0.86|2392|16011||14.94||2325|0|2||1442||1.48||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|47|2020-11-16|2020-11-22|All|32193|||||28943|0|4||12478||0.87|2247|15562||14.44||2192|0|3||1290||1.43||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|46|2020-11-09|2020-11-15|All|28400|||||25398|0|3||10987||0.87|2324|16525||14.06||2280|0|5||1317||1.32||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|45|2020-11-02|2020-11-08|All|28085|||||25055|0|3||11227||0.88|2108|15724||13.41||2056|0|4||1148||1.28||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|44|2020-10-26|2020-11-01|All|25400|||||22215|0|2||8997||0.89|1844|15363||12.00||1804|0|4||932||1.45||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|43|2020-10-19|2020-10-25|All|28035|||||24795|0|2||10111||0.87|2083|16152||12.90||2035|0|6||1053||1.42||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|42|2020-10-12|2020-10-18|All|24306|||||21301|0|4||8976||0.85|2027|16604||12.21||1971|0|6||1073||1.31||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|41|2020-10-05|2020-10-11|All|23313|||||20433|0|5||8581||0.88|1843|16568||11.12||1802|0|4||972||1.55||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|40|2020-09-28|2020-10-04|All|22783|||||19857|0|9||7453||0.89|1963|15994||12.27||1912|1|6||992||1.56||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|39|2020-09-21|2020-09-27|All|22051|||||19416|0|2||7354||0.88|1823|15853||11.50||1773|0|4||934||1.49||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|38|2020-09-14|2020-09-20|All|20115|||||17348|0|3||7016||0.87|1839|15616||11.78||1780|0|2||984||1.38||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|37|2020-09-07|2020-09-13|All|21125|||||18252|1|0||7067||0.92|2043|15847||12.89||1984|0|1||1124||1.37||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|36|2020-08-31|2020-09-06|All|25362|||||21545|0|1||8194||0.89|2204|15697||14.04||2157|0|7||1221||1.32||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|35|2020-08-24|2020-08-30|All|23204|||||19617|0|2||8187||0.90|2421|14788||16.37||2367|0|3||1361||1.44||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|34|2020-08-17|2020-08-23|All|23753|||||19931|0|0||8975||0.90|2380|14919||15.95||2315|0|8||1388||1.53||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|33|2020-08-10|2020-08-16|All|23991|||||19712|0|1||8823||0.92|2750|14645||18.78||2683|0|3||1650||1.50||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|32|2020-08-03|2020-08-09|All|23346|||||18954|0|0||8605||0.92|2854|14545||19.62||2750|0|2||1774||1.43||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|31|2020-07-27|2020-08-02|All|25396|||||20153|0|1||9762||0.92|3177|14025||22.65||3064|0|1||2112||1.36||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|30|2020-07-20|2020-07-26|All|27758|||||21950|0|1||10659||0.98|3368|14367||23.44||3269|0|4||2268||1.43||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|29|2020-07-13|2020-07-19|All|27214|||||21791|0|2||10923||0.99|3493|14479||24.12||3371|0|1||2319||1.38||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|28|2020-07-06|2020-07-12|All|27427|||||21873|0|0||10725||0.95|3361|14325||23.46||3276|1|3||2232||1.58||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|27|2020-06-29|2020-07-05|All|28550|||||22466|0|1||10636||0.96|3227|13811||23.37||3080|0|3||2122||1.39||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|26|2020-06-22|2020-06-28|All|26611|||||19022|1|0||9340||0.97|3276|13525||24.22||3174|0|1||2218||1.49||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|25|2020-06-15|2020-06-21|All|23998|||||18936|0|2||9144||0.95|3271|13804||23.70||3113|0|4||2078||1.64||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|24|2020-06-08|2020-06-14|All|20713|||||17418|1|1||8074||0.98|2988|13466||22.19||2870|1|5||1977||1.61||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|23|2020-06-01|2020-06-07|All|19287|||||16526|0|0||7102||0.98|2969|13144||22.59||2859|0|2||1921||1.60||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|22|2020-05-25|2020-05-31|All|17185|||||14932|0|0||6085||1.00|2762|12914||21.39||2678|0|3||1773||1.67||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|21|2020-05-18|2020-05-24|All|15013|||||12848|0|2||5257||1.09|2674|13574||19.70||2616|1|3||1616||1.65||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|20|2020-05-11|2020-05-17|All|12511|||||10524|5|0||4169||1.02|2449|13312||18.40||2401|1|6||1450||1.74||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|19|2020-05-04|2020-05-10|All|9828|||||8018|2|2||3037||1.09|2202|13025||16.91||2173|9|7||1180||1.80||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|18|2020-04-27|2020-05-03|All|8296|||||6522|3|0||2422||1.11|2102|13163||15.97||2024|2|2||1171||2.11||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|17|2020-04-20|2020-04-26|All|7223|||||5238|5|1||1845||1.25|1754|13821||12.69||1688|0|6||925||2.16||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|16|2020-04-13|2020-04-19|All|6750|||||4775|2|1||1368||1.19|1136|14372||7.90||1112|0|20||552||1.73||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|15|2020-04-06|2020-04-12|All|6451|||||4502|10|2||1040||1.30|843|13917||6.06||821|6|19||330||1.58||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|14|2020-03-30|2020-04-05|All|5410|||||3379|28|2||700||1.10|501|15501||3.23||488|20|22||117||2.16||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|13|2020-03-23|2020-03-29|All|4599|||||2803|37|2||422||1.15|424|17206||2.46||403|24|14||42||2.23||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|12|2020-03-16|2020-03-22|All|3206|||||1835|89|2||224||1.55|344|20227||1.70||324|51|10||10||9.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|11|2020-03-09|2020-03-15|All|2349|||||1123|149|9||172||1.46|262|22893||1.14||249|55|8||1||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|10|2020-03-02|2020-03-08|All|1904|||||544|169|7||26||1.36|296|23464||1.26||276|53|11||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|9|2020-02-24|2020-03-01|All|1922|||||542|232|7||3||0.00|332|22481||1.48||306|81|7||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|8|2020-02-17|2020-02-23|All|1850|||||462|223|3||1||0.00|318|23372||1.36||300|74|10||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|7|2020-02-10|2020-02-16|All|1853|||||493|248|1||0||0.00|373|23702||1.57||342|112|14||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|6|2020-02-03|2020-02-09|All|1763|||||414|209|0||0||0.00|353|22613||1.56||323|100|10||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|5|2020-01-27|2020-02-02|All|1858|||||473|237|3||0||0.00|358|22974||1.56||346|117|8||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|4|2020-01-20|2020-01-26|All|2013|||||544|310|2||0||0.00|360|23573||1.53||341|93|6||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|3|2020-01-13|2020-01-19|All|1876|||||502|277|3||0||0.00|356|24048||1.48||311|100|5||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|2|2020-01-06|2020-01-12|All|1331|||||367|167|4||0||0.00|286|22888||1.25||262|60|5||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2020|1|2019-12-30|2020-01-05|All|528|||||131|54|1||0||0.00|54|16260||0.33||49|13|1||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|52|2019-12-23|2019-12-29|All|1081|||||248|125|1|||||244|24061||1.01||224|65|2||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|51|2019-12-16|2019-12-22|All|1041|||||264|125|3|||||298|26746||1.11||279|52|5||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|50|2019-12-09|2019-12-15|All|1075|||||240|72|3|||||317|28465||1.11||307|39|10||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|49|2019-12-02|2019-12-08|All|825|||||252|66|1|||||284|28672||0.99||272|25|10||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|48|2019-11-25|2019-12-01|All|725|||||214|52|1|||||307|28280||1.09||290|22|7||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|47|2019-11-18|2019-11-24|All|658|||||201|31|2|||||253|26533||0.95||237|17|7||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|46|2019-11-11|2019-11-17|All|632|||||193|38|0|||||313|29152||1.07||292|12|12||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|45|2019-11-04|2019-11-10|All|721|||||204|50|0|||||277|29738||0.93||271|15|14||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|44|2019-10-28|2019-11-03|All|641|||||187|43|1|||||233|23300||1.00||219|7|5||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|43|2019-10-21|2019-10-27|All|647|||||183|38|2|||||198|24963||0.79||191|4|10||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|42|2019-10-14|2019-10-20|All|635|||||177|47|1|||||176|24674||0.71||166|11|3||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|41|2019-10-07|2019-10-13|All|522|||||156|32|0|||||207|25046||0.83||192|6|4||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|40|2019-09-30|2019-10-06|All|522|||||161|29|2|||||167|23824||0.70||166|7|7||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|39|2019-09-23|2019-09-29|All|338|||||107|16|1|||||155|30820||0.50||143|5|5||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|38|2019-09-16|2019-09-22|All|291|||||103|8|2|||||137|28731||0.48||127|3|6||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|37|2019-09-09|2019-09-15|All|285|||||92|7|3|||||89|30191||0.29||85|2|6||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|36|2019-09-02|2019-09-08|All|236|||||85|10|2|||||107|27798||0.38||99|4|7||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|35|2019-08-26|2019-09-01|All|189|||||59|6|1|||||97|29872||0.32||91|5|3||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|34|2019-08-19|2019-08-25|All|161|||||46|4|1|||||84|30118||0.28||80|6|4||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|33|2019-08-12|2019-08-18|All|172|||||53|3|1|||||77|29215||0.26||70|2|3||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|32|2019-08-05|2019-08-11|All|190|||||74|6|1|||||73|28998||0.25||68|2|3||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|31|2019-07-29|2019-08-04|All|183|||||65|5|0|||||76|21531||0.35||71|3|5||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|30|2019-07-22|2019-07-28|All|157|||||40|2|0|||||84|22560||0.37||79|1|7||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|29|2019-07-15|2019-07-21|All|182|||||51|6|1|||||91|23069||0.39||88|6|5||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|28|2019-07-08|2019-07-14|All|209|||||68|9|0|||||86|23975||0.36||80|2|7||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|27|2019-07-01|2019-07-07|All|247|||||94|13|1|||||92|24165||0.38||87|5|4||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|26|2019-06-24|2019-06-30|All|267|||||79|18|2|||||86|26670||0.32||79|6|4||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|25|2019-06-17|2019-06-23|All|272|||||83|14|2|||||74|27982||0.26||70|5|7||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|24|2019-06-10|2019-06-16|All|276|||||80|16|1|||||95|27922||0.34||88|8|4||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|23|2019-06-03|2019-06-09|All|276|||||95|22|0|||||102|27132||0.38||96|9|3||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|22|2019-05-27|2019-06-02|All|295|||||84|18|1|||||103|23676||0.44||96|9|10||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|21|2019-05-20|2019-05-26|All|368|||||124|42|0|||||136|24979||0.54||134|13|1||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|20|2019-05-13|2019-05-19|All|356|||||93|20|6|||||120|24199||0.50||114|13|6||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|19|2019-05-06|2019-05-12|All|331|||||91|24|2|||||111|21486||0.52||106|8|5||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|18|2019-04-29|2019-05-05|All|321|||||101|24|4|||||140|20449||0.68||132|15|2||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|17|2019-04-22|2019-04-28|All|471|||||146|37|0|||||177|26391||0.67||169|20|6||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|16|2019-04-15|2019-04-21|All|434|||||95|25|0|||||177|22768||0.78||172|28|7||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|15|2019-04-08|2019-04-14|All|839|||||227|85|2|||||231|29906||0.77||219|39|5||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|14|2019-04-01|2019-04-07|All|1036|||||288|108|2|||||276|30767||0.90||270|38|10||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|13|2019-03-25|2019-03-31|All|1108|||||314|97|4|||||292|29410||0.99||275|54|8||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|12|2019-03-18|2019-03-24|All|1180|||||255|83|1|||||339|26580||1.28||317|58|10||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|11|2019-03-11|2019-03-17|All|1343|||||323|141|2|||||357|29622||1.21||337|87|7||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|10|2019-03-04|2019-03-10|All|1438|||||359|139|4|||||385|29611||1.30||373|76|6||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|9|2019-02-25|2019-03-03|All|1488|||||414|150|4|||||431|25587||1.68||401|79|12||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|8|2019-02-18|2019-02-24|All|1627|||||446|192|3|||||433|27499||1.57||401|90|9||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|7|2019-02-11|2019-02-17|All|1782|||||496|138|11|||||531|26663||1.99||503|111|8||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|6|2019-02-04|2019-02-10|All|1754|||||474|150|11|||||528|24798||2.13||498|132|11||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|5|2019-01-28|2019-02-03|All|1747|||||485|157|5|||||582|23763||2.45||551|158|8||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|4|2019-01-21|2019-01-27|All|1870|||||531|184|7|||||503|24136||2.08||474|127|5||0||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|3|2019-01-14|2019-01-20|All|1685|||||513|163|6|||||567|22982||2.47||539|155|5||0||0.00|632540|||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|2|2019-01-07|2019-01-13|All|1515|||||492|162|8|||||602|22444||2.68||573|167|9||0||0.00|631726|||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2019|1|2018-12-31|2019-01-06|All|1026|||||412|140|1|||||414|17072||2.43||386|102|4||0||0.00|497784|||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|52|2018-12-24|2018-12-30|All|986|||||364|96|0|||||319|22000||1.45||287|69|||||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|51|2018-12-17|2018-12-23|All|1151|||||395|116|1|||||339|25617||1.32||313|82|||||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|50|2018-12-10|2018-12-16|All|1163|||||457|115|5|||||321|27427||1.17||309|63|||||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|49|2018-12-03|2018-12-09|All|1033|||||434|125|7|||||324|28474||1.14||316|64|||||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|48|2018-11-26|2018-12-02|All|1004|||||417|115|2|||||299|28015||1.07||290|59|||||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|47|2018-11-19|2018-11-25|All|878|||||343|85|1|||||313|26048||1.20||301|51|||||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|46|2018-11-12|2018-11-18|All|660|||||276|53|4|||||248|26846||0.92||242|41|||||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|45|2018-11-05|2018-11-11|All|724|||||320|71|4|||||239|27986||0.85||232|36|||||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|44|2018-10-29|2018-11-04|All|644|||||283|57|2|||||192|21659||0.89||182|22|||||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|43|2018-10-22|2018-10-28|All|656|||||257|79|1|||||198|24151||0.82||190|21|||||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|42|2018-10-15|2018-10-21|All|631|||||248|59|2|||||138|24418||0.57||129|16|||||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|41|2018-10-08|2018-10-14|All|573|||||230|42|0|||||142|24432||0.58||136|19|||||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|40|2018-10-01|2018-10-07|All|537|||||198|28|1|||||129|23821||0.54||126|12|||||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|39|2018-09-24|2018-09-30|All|409|||||173|31|0|||||104|28236||0.37||98|8|||||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|38|2018-09-17|2018-09-23|All|358|||||159|28|0|||||85|29014||0.29||82|3|||||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|37|2018-09-10|2018-09-16|All|378|||||137|16|0|||||100|28467||0.35||94|12|||||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|36|2018-09-03|2018-09-09|All|308|||||125|22|1|||||85|27300||0.31||80|8|||||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|35|2018-08-27|2018-09-02|All|263|||||99|14|1|||||72|25636||0.28||71|5|||||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|34|2018-08-20|2018-08-26|All|272|||||93|9|0|||||79|23581||0.34||78|13|||||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|33|2018-08-13|2018-08-19|All|233|||||82|15|5|||||74|22902||0.32||72|13|||||0.00||||||||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|32|2018-08-06|2018-08-12|All|314|||||105|12|1|||||87|22692||0.38||84|10|||||0.00|290174|||||1225||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|31|2018-07-30|2018-08-05|All|329|||||108|20|0|||||92|22526||0.41||88|9|||||0.00|291089|||||1407||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|30|2018-07-23|2018-07-29|All|492|||||160|39|2|||||111|26991||0.41||106|28|||||0.00|321125|||||1455||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|29|2018-07-16|2018-07-22|All|673|||||184|57|0|||||128|28503||0.45||120|37|||||0.00|341158|||||1416||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|28|2018-07-09|2018-07-15|All|862|||||197|67|1|||||128|28568||0.45||112|38|||||0.00|348257|||||1437||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|27|2018-07-02|2018-07-08|All|761|||||191|68|0|||||91|28744||0.32||83|18|||||0.00|345307|||||1634||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|26|2018-06-25|2018-07-01|All|362|||||141|44|0|||||85|26520||0.32||76|4|||||0.00|346265|||||1433||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|25|2018-06-18|2018-06-24|All|275|||||103|19|1|||||99|27470||0.36||88|7|||||0.00|351992|||||1472||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|24|2018-06-11|2018-06-17|All|237|||||82|16|0|||||74|27690||0.27||64|3|||||0.00|356926|||||1453||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|23|2018-06-04|2018-06-10|All|233|||||104|15|0|||||96|29122||0.33||85|4|||||0.00|368127|||||1599||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|22|2018-05-28|2018-06-03|All|279|||||103|12|2|||||97|23399||0.41||86|5|||||0.00|383450|||||1541||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|21|2018-05-21|2018-05-27|All|263|||||108|9|2|||||96|23694||0.41||87|6|||||0.00|394856|||||1663||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|20|2018-05-14|2018-05-20|All|321|||||130|18|1|||||103|24021||0.43||95|4|||||0.00|411752|||||1714||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|19|2018-05-07|2018-05-13|All|274|||||113|7|1|||||96|22121||0.43||88|5|||||0.00|390339|||||1716||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|18|2018-04-30|2018-05-06|All|330|||||133|13|0|||||88|21303||0.41||80|5|||||0.00|376045|||||1789||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|17|2018-04-23|2018-04-29|All|328|||||147|19|1|||||118|26397||0.45||105|5|||||0.00|412556|||||1831||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|16|2018-04-16|2018-04-22|All|397|||||152|16|1|||||117|27827||0.42||108|7|||||0.00|436334|||||2032||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|15|2018-04-09|2018-04-15|All|421|||||156|30|0|||||115|26985||0.43||106|13|||||0.00|420620|||||2140||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|14|2018-04-02|2018-04-08|All|428|||||169|21|1|||||131|27326||0.48||117|6|||||0.00|447062|||||2128||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|13|2018-03-26|2018-04-01|All|416|||||155|18|0|||||130|23093||0.56||117|13|||||0.00|396706|||||2128||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|12|2018-03-19|2018-03-25|All|595|||||226|45|1|||||174|27253||0.64||155|16|||||0.00|479984|||||2406||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|11|2018-03-12|2018-03-18|All|685|||||251|46|0|||||186|30748||0.60||170|23|||||0.00|550288|||||2749||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|10|2018-03-05|2018-03-11|All|811|||||322|64|1|||||195|31548||0.62||178|27|||||0.00|564441|||||2680||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|9|2018-02-26|2018-03-04|All|841|||||305|68|3|||||191|24796||0.77||181|29|||||0.00|531047|||||2869||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|8|2018-02-19|2018-02-25|All|955|||||364|136|0|||||203|26887||0.76||188|38|||||0.00|580628|||||2813||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|7|2018-02-12|2018-02-18|All|1058|||||369|121|1|||||201|25745||0.78||188|45|||||0.00|581180|||||2971||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|6|2018-02-05|2018-02-11|All|1192|||||429|166|1|||||229|24704||0.93||212|40|||||0.00|570324|||||3063||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|5|2018-01-29|2018-02-04|All|1203|||||417|145|5|||||245|22164||1.11||223|58|||||0.00|636584|||||2921||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|4|2018-01-22|2018-01-28|All|1525|||||493|237|1|||||271|24447||1.11||251|69|||||0.00|706863|||||3146||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|3|2018-01-15|2018-01-21|All|1411|||||517|227|1|||||235|23664||0.99||221|53|||||0.00|672728|||||3140||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|2|2018-01-08|2018-01-14|All|1173|||||456|184|1|||||195|22589||0.86||176|49|||||0.00|648300|||||3224||||||||
+Northern hemishere|Americas|AMR|Central America and Caribbean|Mexico|2018|1|2018-01-01|2018-01-07|All|854|||||362|128|4|||||154|17812||0.86||140|37|||||0.00|527679|||||3050||||||||
