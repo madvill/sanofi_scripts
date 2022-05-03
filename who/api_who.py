@@ -8,8 +8,9 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # Init logger
-func_name = 'main' # sys.argv[0]
+func_name = "main"  # sys.argv[0]
 logger = get_logger(func_name)
+
 
 def main():
     # Example of execution : python api_who.py --country Mexico --StartYear 2018 --StartWeek 1 --EndYear 2022 --EndWeek 53
@@ -32,54 +33,73 @@ def main():
 
     # Report 2
     # Create a list of dictionnaries with the data from the website
-    list_of_dict = parse_table2(get_table_data2()) 
-    logger.info('List of dicts created')
+    list_of_dict = parse_table2(get_table_data2())
+    logger.info("List of dicts created")
     # Convert the list of dictionnaries into a dataframe
     df = pd.DataFrame.from_dict(list_of_dict)
     # Write the dataframe in a csv at the same directory as the code
-    df.to_csv('who_file_report2.csv',index=False,sep='|')
-    logger.info('CSV writen')
-
+    df.to_csv(
+        "/mnt/c/Users/madville/Documents/who_file_report2.csv", index=False, sep="|"
+    )
+    logger.info("CSV writen")
 
     # Report 12
     # Create a list of dictionnaries with the data from the website
-    list_of_dict = parse_table(get_table_data(args.country, args.StartYear, args.StartWeek, args.EndYear, args.EndWeek))
-    logger.info('List of dicts created')
+    list_of_dict = parse_table(
+        get_table_data(
+            args.country, args.StartYear, args.StartWeek, args.EndYear, args.EndWeek
+        )
+    )
+    logger.info("List of dicts created")
     # Convert the list of dictionnaries into a dataframe
     df = pd.DataFrame.from_dict(list_of_dict)
     # Write the dataframe in a csv at the same directory as the code
-    df.to_csv('who_file_report12.csv',index=False,sep='|')
-    logger.info('CSV writen')
+    df.to_csv(
+        "/mnt/c/Users/madville/Documents/who_file_report12_" + args.country + ".csv",
+        index=False,
+        sep="|",
+    )
+    logger.info("CSV writen")
 
-    # Report 16 
+    # Report 16
 
     # selecting options
-    option_selector("ctl_ReportViewer_ctl04_ctl03_ddValue", args.filter) # "Filter by"
-    option_selector_2("ctl_ReportViewer_ctl04_ctl05_ddDropDownButton", "ctl_ReportViewer_ctl04_ctl05_divDropDown", args.country) # "Select by"
-    option_selector("ctl_ReportViewer_ctl04_ctl07_ddValue", args.StartYear) # "From year"
-    option_selector("ctl_ReportViewer_ctl04_ctl09_ddValue", args.EndYear) # "To year"
-    option_selector("ctl_ReportViewer_ctl04_ctl11_ddValue", args.StartWeek) # "From week"
-    option_selector("ctl_ReportViewer_ctl04_ctl13_ddValue", args.EndWeek) # "To week"
-    option_selector("ctl_ReportViewer_ctl04_ctl15_ddValue", args.AgeGroup) # "Age group type"
+    option_selector("ctl_ReportViewer_ctl04_ctl03_ddValue", args.filter)  # "Filter by"
+    option_selector_2(
+        "ctl_ReportViewer_ctl04_ctl05_ddDropDownButton",
+        "ctl_ReportViewer_ctl04_ctl05_divDropDown",
+        args.country,
+    )  # "Select by"
+    option_selector("ctl_ReportViewer_ctl04_ctl07_ddValue", args.StartYear)  # "From year"
+    option_selector("ctl_ReportViewer_ctl04_ctl09_ddValue", args.EndYear)  # "To year"
+    option_selector("ctl_ReportViewer_ctl04_ctl11_ddValue", args.StartWeek)  # "From week"
+    option_selector("ctl_ReportViewer_ctl04_ctl13_ddValue", args.EndWeek)  # "To week"
+    option_selector("ctl_ReportViewer_ctl04_ctl15_ddValue", args.AgeGroup)  # "Age group type"
 
     # clicking "View report"
     driver.find_element_by_id("ctl_ReportViewer_ctl04_ctl00").click()
 
     logger.info("Selection done")
-    
+
     try:
         # waiting for data to appear
-        WebDriverWait(driver, TIME_TABLE).until(EC.presence_of_element_located((By.XPATH, "//div[@id='VisibleReportContentctl_ReportViewer_ctl09']//div")))
+        WebDriverWait(driver, TIME_TABLE).until(
+            EC.presence_of_element_located(
+                (By.XPATH, "//div[@id='VisibleReportContentctl_ReportViewer_ctl09']//div")
+            )
+        )
 
         # getting data
-        table_rows_html = get_table_rows("//div[@id='VisibleReportContentctl_ReportViewer_ctl09']//div//table//tbody//tr//td//" + 
-                                                "table//tbody//tr//td//table//tbody//tr//td//table//tbody//tr//td//table//tbody//tr")
+        table_rows_html = get_table_rows(
+            "//div[@id='VisibleReportContentctl_ReportViewer_ctl09']//div//table//tbody//tr//td//"
+            + "table//tbody//tr//td//table//tbody//tr//td//table//tbody//tr//td//table//tbody//tr"
+        )
         data = get_table_content(table_rows_html)
     finally:
         # quitting selenium
         driver.quit()
-    
-    # Converting data format to dict containing columns of the future dataframe 
+
+    # Converting data format to dict containing columns of the future dataframe
     # (orient = 'tight' to orient = 'columns' refering to the pandas documentation briefly)
     dict = {}
     logger.debug(data["headers"])
@@ -97,18 +117,21 @@ def main():
         logger.debug("Length of temp :")
         logger.debug(len(temp))
         # Increment the overheader each time we meet a column named 'Cases'
-        if data["headers"][1][i] == 'Cases' or data["headers"][1][i] == 'Geospread':
-            count_overheader+=1
-        dict[data["headers"][0][count_overheader] +" "+ data["headers"][1][i]] = temp
+        if data["headers"][1][i] == "Cases" or data["headers"][1][i] == "Geospread":
+            count_overheader += 1
+        dict[data["headers"][0][count_overheader] + " " + data["headers"][1][i]] = temp
     # Debugger that read the dictionnary just created
-    for key in dict :
+    for key in dict:
         logger.debug(key)
         logger.debug(len(dict[key]))
     # Replacement of the Null values to real Null values and write the csv
     df = pd.DataFrame.from_dict(dict).replace("\xa0", "")
-    df.to_csv('who_file_report16.csv',index=False,sep='|')
-    logger.info('CSV writen')
-
+    df.to_csv(
+        "/mnt/c/Users/madville/Documents/who_file_report16_" + args.country + ".csv",
+        index=False,
+        sep="|",
+    )
+    logger.info("CSV writen")
 
     # Report 26 (in test)
     # # Create a list of dictionnaries with the data from the website
@@ -119,6 +142,7 @@ def main():
     # # Write the dataframe in a csv at the same directory as the code
     # df.to_csv('who_file_report26.csv',index=False,sep='|')
     # logger.info('CSV writen')
+
 
 if __name__ == "__main__":
     set_log_level(logger, "info")

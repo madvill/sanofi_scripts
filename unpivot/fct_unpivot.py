@@ -4,12 +4,13 @@ from datetime import datetime, timedelta
 from dateutil.relativedelta import relativedelta
 
 # Init logger
-logger = get_logger('unpivot')
+logger = get_logger("unpivot")
 set_log_level(logger, "info")
+
 
 def unpivot_file(file, country):
     # Read excel file
-    if country != 'CN':
+    if country != "CN":
         df = pd.read_excel(file)
 
     logger.info("File read successful")
@@ -121,7 +122,7 @@ def unpivot_file(file, country):
             date = first_date + delta
             first_date = date
             date_list.append(date.strftime("%Y-%m-%d"))
-        
+
         # Rename the columns (update the names of date columns)
         df.columns = other_col + date_list
 
@@ -141,46 +142,55 @@ def unpivot_file(file, country):
 
         # Filter only on China data
         chn_cols = []
-        for col in df.columns :
-            if '.2' in col :
+        for col in df.columns:
+            if ".2" in col:
                 chn_cols.append(col)
 
         # Create the dataframe with only China data
-        df_chn = pd.DataFrame({'Date':df[df.columns[1]]})
+        df_chn = pd.DataFrame({"Date": df[df.columns[1]]})
 
         # Date management
-        start_year = datetime.strptime(df_chn["Date"][0].replace(" ","").replace("\u3000","").replace("．",""),'%Y%b')
+        start_year = datetime.strptime(
+            df_chn["Date"][0].replace(" ", "").replace("\u3000", "").replace("．", ""),
+            "%Y%b",
+        )
         date_list = [start_year]
-        for i in range(len(df_chn["Date"])-1):
+        for i in range(len(df_chn["Date"]) - 1):
             date_list.append(date_list[i] + relativedelta(months=1))
 
         for i in range(len(date_list)):
-            date_list[i] = str(date_list[i]).replace("-","")[:6]
+            date_list[i] = str(date_list[i]).replace("-", "")[:6]
 
         # Copy the data from the initial dataframe to the new one
-        for col in chn_cols: 
-            df_chn[col.replace('.2','')] = df[col]
+        for col in chn_cols:
+            df_chn[col.replace(".2", "")] = df[col]
 
         # Update the date data
         df_chn["Date"] = date_list
 
         # Insert the country column into the dataframe
-        df_chn.insert(0, "Country", ["China"]*len(df_chn["Date"]))
+        df_chn.insert(0, "Country", ["China"] * len(df_chn["Date"]))
 
         # Truncate the dataframe at the end of the arrival data (summary of data below)
-        df_chn = df_chn.truncate(after=df_chn["Date"][df_chn["Date"] == "202201"].index[0])
+        df_chn = df_chn.truncate(
+            after=df_chn["Date"][df_chn["Date"] == "202201"].index[0]
+        )
 
         # Delete the data with 'Total' label
         del df_chn["Total"]
 
         # Create the unpivoted dataframe sorted by date
-        new_df = pd.melt(
-            df_chn,
-            id_vars=["Country", "Date"],
-            value_vars=["Tourist", "Business", "Others", "Short Excursion"],
-            var_name="Visit_Purpose",
-            value_name="Visitors",
-            ).sort_values("Date").reset_index(drop=True)
+        new_df = (
+            pd.melt(
+                df_chn,
+                id_vars=["Country", "Date"],
+                value_vars=["Tourist", "Business", "Others", "Short Excursion"],
+                var_name="Visit_Purpose",
+                value_name="Visitors",
+            )
+            .sort_values("Date")
+            .reset_index(drop=True)
+        )
 
         # Write csv into csv
         new_df.to_csv(file.split(".")[0] + "_pivoted.csv", index=False, sep="|")
